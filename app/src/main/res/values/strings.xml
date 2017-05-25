@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Hablu</string>
+    <string name="title">Factory Reset</string>
+    <string name="message">Factory restting is a method which can reset your phone/n according to your lattest one</string>
 </resources>
